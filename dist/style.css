@@ -1,0 +1,37 @@
+.cntr{
+    min-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.logo{
+    width: 300px;
+    text-align: center !important;
+
+}
+.logo{
+    width: 600px;
+    text-align: center !important;
+
+}
+form{
+margin-top: 100px;
+}
+label{
+    float: right;
+}
+.col-md-12,.col-sm-12{
+padding: 50px;
+}
+.hundred{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    padding: 40px;
+}
+.cert{
+    width: 600px;
+}
+.btn,h4{
+    margin-top: 40px;
+}
